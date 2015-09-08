@@ -1,0 +1,19 @@
+{
+  "name": "postgress-import-json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./bin/postgres-import-json.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.8.1",
+    "shelljs": "^0.5.3",
+    "string-template": "^0.2.1"
+  },
+  "bin": {
+    "postgres-import-json": "./bin/postgres-import-json.js"
+  }
+}
