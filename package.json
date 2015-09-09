@@ -1,5 +1,5 @@
 {
-  "name": "postgress-import-json",
+  "name": "postgres-import-json",
   "version": "1.0.1",
   "description": "",
   "main": "./bin/postgres-import-json.js",
