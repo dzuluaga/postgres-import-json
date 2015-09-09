@@ -25,8 +25,8 @@ $ node ./bin/postgres-import-json.js --help
 ### Method 1: Install it
 
 ```shell
-$ npm install postgress-import-json -g
-/usr/local/bin/postgres-import-json -> /usr/local/lib/node_modules/postgress-import-json/bin/postgres-import-json.js
+$ npm install postgres-import-json -g
+/usr/local/bin/postgres-import-json -> /usr/local/lib/node_modules/postgres-import-json/bin/postgres-import-json.js
 ```
 
 **Run it**
