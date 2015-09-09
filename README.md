@@ -1,5 +1,7 @@
 #postgres-import-json
-The main goal of this Node.js tool is to import multiple JSON data files into Postgres tables leveraging psql and copy native utilities, so then the date can be later processed and ingested by running Postgres operations at the table level. Hence, there's no need to reinvent the wheel by running individual operations at the record level.
+This tools doesn't reinvent the wheel! It stands on giants shoulders.
+
+The main goal of this Node.js tool is to import multiple JSON data files into a Postgres table by leveraging psql and copy native utilities, so then the data, can be later processed and ingested by running Postgres operations at the table level. Hence, there's no need to reinvent the wheel by running individual operations at the record level.
 
 **You can run this tool in two methods. Method 1: Clone this repo and run Node.js tool or Method 2: install this tool with NPM**
 
